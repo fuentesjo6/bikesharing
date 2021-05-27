@@ -1,4 +1,6 @@
 # 🚲 CitiBike Data Visualization 🚲
+### Tableau public link below
+[Tableau](https://public.tableau.com/app/profile/jonathan.fuentes/viz/Challenge_16212243168080/NYCBikeData) 🔗
 
 - Utilizing data provided by CitiBike for and Tableau I created a Viz for checkout times for users. Utiliziing Tableau and filtering the data I was able to create a visual to show the checkout times for all users with a filter on the right right side that allows the user to select filters. Before being able to do this we needed to convert values with the data to allow us to use them in Tabluew. The original data showed "tripduration" in seconds and they neede to be converted into a 'timestamp". 
 
